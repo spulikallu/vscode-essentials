@@ -42,7 +42,24 @@
 1. ! for html
 2. css type of selectors for remaining
 3. $ for index
-4. * for multiplicaton
+4. //* for multiplicaton
 5. nested condition possible
 
+## Keyboard shortcut updates
+-----
 
+1. We have ability to change VS code keyboard texts
+2. if you are used to some other editor like sublime or atom etc... you can use key map extensions to get the same hot key experieince on vs code.
+3. keybindings.json
+   
+
+## settings
+
+---
+1. command + , for settings
+2. custmize suttings for user/workspace
+3. using font - ligatures //
+4. FIRA CODE
+5. font ligatures handling symbols
+6. /* npm scripts /* outline */
+7. 
