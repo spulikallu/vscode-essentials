@@ -62,4 +62,47 @@
 4. FIRA CODE
 5. font ligatures handling symbols
 6. /* npm scripts /* outline */
-7. 
+  
+
+  ## extensions
+
+  ----
+1. rainbow brackets
+2. Quokka for real time output
+3. polacode for caputring screen shots
+4. advance new file to create file with required name and path
+5. auto clase tag lite
+6. liveserver is very useful extension to open file inside of browser and auto update
+7. open in browser 
+8. vs code icons for cool effect
+9. better comments for color indidcaiotn
+10. es6 extensions
+11. search node_modules for sering node modules
+12. import cost /// indicates the cost of import size
+13. dotENV for coloring env files
+14. intell-sense provides classes available inside the css file
+15. todo highilght
+16. ES7 react/redux/vetur ... etc. snippets extensions
+17. vetur
+18. angular snipptes v8
+19. project manager for organizing projects
+20. editorconfig
+21. eslint
+22. settins sync
+23. git lens
+24. settings sync - to save vs code settins on github or some other plance so you dont have to open it again
+    
+
+
+ ## themes
+ ---
+
+1. cobalt 2
+2. shades of purple
+3. Night owl
+4. one dark pro
+5. material icon theme
+6.  material theme
+7.  dracula official
+8.  /* best theme extensoins */
+9.  
