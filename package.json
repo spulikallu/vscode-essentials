@@ -1,0 +1,26 @@
+{
+  "name": "vscode-essentials",
+  "version": "1.0.0",
+  "description": "## User Interface",
+  "main": "script.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "prettier": "^2.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spulikallu/vscode-essentials.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spulikallu/vscode-essentials/issues"
+  },
+  "homepage": "https://github.com/spulikallu/vscode-essentials#readme"
+}

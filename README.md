@@ -105,4 +105,96 @@
 6.  material theme
 7.  dracula official
 8.  /* best theme extensoins */
-9.  
+
+## snippets
+
+----
+
+1. useful feature to have snippets
+   ```
+
+   {
+	"Print to Console":{
+		"prefix":"clog",
+		"body":"console.log('$1');\n$0",
+		"description": "Log content to console"
+	} ,
+	"JQ For Loop in Array":{
+		"prefix": "jqforarr",
+		"body":[
+			"for (let $index = 0; $index<${array}.length; $index++){",
+				"\tconst $element = $array[$index]",
+				"\t$0",
+			"}"		
+		]	
+	}
+}
+
+we also have lot of snippet extensions
+
+## markdown
+---
+
+Userful extensions
+markdown lint
+markdown shortcuts
+markdown toc
+
+## organize code
+
+---
+
+commenting short cut
+<!-- toogle comment on that line -->
+
+command ?
+
+shift alt f for formating document
+
+format on save option is enabled
+editorconfig is excellent
+
+prettier
+
+https://prettier.io/
+
+recommend to install inside the project
+
+/** prettier rc***/
+/** es lint***/
+
+ESLINT
+
+
+/**
+Formatting
+**/
+
+## terminal
+
+----
+
+
+we can hav  multiple termial split windows
+
+
+/* mark down reference available in udemy */
+
+terminal settins are available
+
+terminal rename for mongoDB .. ssh can re renamed
+
+frontend
+short  cut for terminal focus
+
+## git extensions
+
+1. git history extension
+2. git blame - to blame who has done that code change
+
+
+
+## debugging
+
+Debugger forchrome
+
