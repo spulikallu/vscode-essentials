@@ -1,40 +1,53 @@
 # VS Code Essentials
+A quick guide to must know shortcuts, features and concepts of VS Code.
 
-## User Interface
+## User Interface Shortcuts
+* ⌘ + b toggles the file explorer
+* ⌘ + ⇧ + f - search
+* ⌘ + ⇧ + x - extensions
+* ⌃ + ⇧ + g - source
+* ⌘ + ⇧ + d - debugging
+* ⌃ + ~ for hide/show terminal 
+* ⌘ + ⇧ + p - vs code commands window
+* ⌘ + p to open file
+* ⌘ + w to close current file
+* ⌘ + up arrow to move cursor to page top 
+* ⌘ + down arrow to move cursort to page bottom
+* ⌥ + up/down arrow to move a line to top or bottom 
+* ⌥ + left/right arrow to navigate word by word left or right on a line
+* ⌃ + number to navigate between tab groups
+* ⌃ + ⇧ + tab to navigate between tabs
+* ⌘ + d helps to select complete word, preset it repeatedly to select all words and then replace
+* ⌥ + ⇧ + up/down arrow will duplicate the line
+* ⌘ + x, ⌘ + v to cut/paste code
+* ⌥ + click to have multiple cursors
+* ⌘ + ⌥ + ⇧ + up/down arrow to have multi cursor 
+* ⌘ + f to search with in file
+* ⌘ + ⇧ + f search in folders
+* ⌘ + ⇧ + h open search along with replace menu
 
-1. command b toggles the file explorer
-2. Information about the enchoding lines and columns shown botom
-3. command shift f - search
-4. command shift x - extensions
-5. control shift g - source control
-6. command shift d - debugging
-7. control ~ for hiding and showing terminal window
-8. command shift p - command pallette
-9. zen mode
+
+2.  zen mode
+3.  Information about the enchoding lines and columns shown botom
 
 ## split editor
 
-1. grid system avaialble to open editors in the view you need them
-2. ctrl and number to navigate between tab groups
-3. ctrl shift tab to navigate between tabs
-4. single click opens the file in soft mode, you will have indication as well as the file name is displayed in italics
-4. command p to open file
-5. command w will close current file
+2. Grid system is avaialble to open multiple editors in the required view
+3. 
+4
+5. Single click opens the file in soft mode, you will have indication as well as the file name is displayed in italics
+
 6. workspace file inside the project folder to have vs code configuraitions
-7. commond - up arrow to move to top of the code
-8. command - down arrow to move to bottom of the code
-9. hold option and then arrows will help you to navigate between word by word than character by character
-10. command d helps to select the complete word
-11. holding option and using up and down arrow will move the line to the top or bottom
-12. option shift and up/down arrow will duplicate the same line
-13. command x and command v on the line ... does copy, cut paste
-14. you repeatedly presse command d it selects all the words and with mulitple cursors and then you can retype it as you need
-15. option click to include multiple cursors
-16. command option shift up and down to have multi cursor shown
-17. command f search with in file
-18. command shift f search in folders
-19. command shift h open search along with replace menu
-20. intellisense ![alt text](./intellisense.png "intellisense")
+
+7.
+8. 
+9.  
+
+17. 
+
+
+
+24. intellisense ![alt text](./intellisense.png "intellisense")
 
 
 ## Emmet
@@ -56,7 +69,7 @@
 ## settings
 
 ---
-1. command + , for settings
+1. ⌘ + , for settings
 2. custmize suttings for user/workspace
 3. using font - ligatures //
 4. FIRA CODE
@@ -147,9 +160,9 @@ markdown toc
 commenting short cut
 <!-- toogle comment on that line -->
 
-command ?
+⌘ ?
 
-shift alt f for formating document
+⇧ alt f for formating document
 
 format on save option is enabled
 editorconfig is excellent
