@@ -104,7 +104,21 @@ A quick guide to must know shortcuts, features and concepts of VS Code.
 22. settins sync
 23. git lens
 24. settings sync - to save vs code settins on github or some other plance so you dont have to open it again
-    
+    C Spire Living Style Guide_v2 Source — //repo source code
+C Spire Living Style Guide_v2 — //build output
+
+Path interllisense
+Auto rename tag
+Css peek
+peacock
+colorize
+Code spell checker
+Icon fonts
+Turbo Console Log
+
+Vscode icons
+Regex previewr
+bookmarks
 
 
  ## themes
